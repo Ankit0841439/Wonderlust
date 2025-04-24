@@ -1,3 +1,3 @@
 # Wonderlust
 
-A fully responsive clone of popular booking website Airbnb, built with javaScript, Node.js, Express.js, HTML, CSS and EJS.
+A fully responsive clone of popular booking website Airbnb, built with javaScript, Node.js, Express.js, HTML, CSS, EJS and MongoDB.
